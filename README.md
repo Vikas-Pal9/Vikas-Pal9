@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vikas-Pal9
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on frontend part of any project
+- 👀 I’m interested in Automation Engineer or Quality Assurance Engineer
+- 🌱 I’m currently learning Advance Automation Testing
+- 💞️ I’m looking to collaborate on any Testing project
 - 📫 How to reach me vikaspal473@gmail.com
 
 <!---
